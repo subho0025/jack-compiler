@@ -1,5 +1,6 @@
 (library
  (name jackcompiler)
  (public_name jackcompiler.lib)
- (modules jackast parser tokenizer xml)
+ (libraries jackvm.lib)
+ (modules jackast parser tokenizer xml symbolTable vm)
 )
