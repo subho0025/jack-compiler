@@ -1,0 +1,5 @@
+(library
+ (name jackcompiler)
+ (public_name jackcompiler.lib)
+ (modules jackast parser tokenizer xml)
+)
