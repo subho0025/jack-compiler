@@ -1,0 +1,8 @@
+ocaml>=4.14.0
+dune>=3.16
+opam>=2.0
+
+# To run the outputs:
+#   Nand2Tetris software suite (CPU emulator, VM emulator, Jack OS .vm files)
+#   https://www.nand2tetris.org/software
+
